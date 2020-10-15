@@ -11,8 +11,9 @@
 * [anavada/web/views/jboard/](https://github.com/HWAJONGLEE/anavada/tree/master/web/views/jboard)<br>
 * [anavada/src/admin/jboard/](https://github.com/HWAJONGLEE/anavada/tree/master/src/admin/jboard)<br>
 
---------------------------
+
 ### 기능설명
+--------------------------
 
 + 중고거래 게시판 글 작성
   + 이미지 4개 ImageUtil 써서 업로드 450 X 450 크기로 리사이징
