@@ -43,7 +43,7 @@
 <h3>🛠 개발환경 </h3>
 
 - 💻 &nbsp; Java | JSP
-- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🌐 &nbsp; HTML | CSS | JavaScript | jQuery 3.5.1
 - 🛢 &nbsp; Oracle Database 11g Release 11.2.0.2.0 | Sql
 - 🔧 &nbsp; Git | SourceTree
 - 📫 &nbsp; apache-tomcat-8.5.57
